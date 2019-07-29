@@ -1,0 +1,29 @@
+{
+  "name": "jestbug",
+  "version": "1.0.0",
+  "description": "Repo for jest bug report",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nickwangyoui/jestbug.git"
+  },
+  "keywords": [
+    "bug",
+    "report",
+    "jest"
+  ],
+  "author": "nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickwangyoui/jestbug/issues"
+  },
+  "homepage": "https://github.com/nickwangyoui/jestbug#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "open": "^6.4.0"
+  },
+  "dependencies": {}
+}
